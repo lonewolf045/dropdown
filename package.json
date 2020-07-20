@@ -1,0 +1,22 @@
+{
+  "name": "@lonewolf045/drop-down",
+  "version": "0.1.0",
+  "description": "It adds the functionality to the button of drop down menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonewolf045/dropdown.git"
+  },
+  "keywords": [
+    "lonewolf045"
+  ],
+  "author": "Kushagra Agarwal <kushagracool490@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonewolf045/dropdown/issues"
+  },
+  "homepage": "https://github.com/lonewolf045/dropdown#readme"
+}
