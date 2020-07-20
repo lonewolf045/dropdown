@@ -11,7 +11,7 @@
 //     });
 // })();
 
-module.exports = (buttonRef , menuContainer) => {
+module.exports = function dropdown (buttonRef , menuContainer) {
     menuContainer.style.display = 'none';
     buttonRef.addEventListener('click',() => {
         if(menuContainer.style.display == 'none') {

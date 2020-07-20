@@ -1,6 +1,6 @@
 {
   "name": "@lonewolf045/drop-down",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "It adds the functionality to the button of drop down menu",
   "main": "index.js",
   "scripts": {
